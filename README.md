@@ -1,209 +1,230 @@
-<!--
-██████╗ ██╗  ██╗██╗   ██╗██╗     ███████╗
-██╔══██╗██║ ██╔╝██║   ██║██║     ██╔════╝
-██████╔╝█████╔╝ ██║   ██║██║     █████╗  
-██╔═══╝ ██╔═██╗ ██║   ██║██║     ██╔══╝  
-██║     ██║  ██╗╚██████╔╝███████╗███████╗
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
--->
+<!-- █████████████████████████████████████ -->
+<!--        PIXEL x GRAFFITI CORE         -->
+<!-- █████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1f1f1f&height=220&section=header&text=MUKUL%20SRIVASTAVA&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=220&section=header&text=MUKUL%20SRIVASTAVA&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
-
-<!-- GRAFFITI STYLE TITLE -->
 
 <div align="center">
 
-# 🧨 𝙼𝚄𝙺𝚄𝙻 // 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 𝙲𝙾𝙾𝙻 𝚂𝚃𝚄𝙵𝙵
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;Engineer+%7C+Builder+%7C+Designer;AI%2FML+%7C+NLP+%7C+Systems;Pixel+precision.+Graffiti+instinct."/>
 
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Pixel+Mind+%2B+Graffiti+Soul;Tech+Head+%7C+Builder+%7C+Designer;I+make+things+feel+alive;AI%2FML+%7C+NLP+%7C+Systems;Welcome+to+my+world&center=true&width=600&height=50&color=ffffff">
-</p>
-
 ---
-
-# 🕹️ `START_GAME.exe`
 
 ```bash
-> press 1 to know me
-> press 2 to see projects
-> press 3 to unlock secret
+> loading identity...
+
+name: mukul_srivastava
+mode: builder + designer
+status: evolving
+
+> ready
 ```
 
 ---
 
-## 🎮 `choice_1 // who_am_i`
+## 🧠 identity.engine
+I don’t just build projects.
 
-```bash
-loading identity...
-```
+I build systems.  
+I build experiences.  
+I build things people remember.
 
-I’m not just a developer.
+**Logic × Aesthetics × Execution**
 
-I build **things people feel**.
+---
 
-* 🎓 CSE @ Thapar
-* ⚡ Tech Head @ MLSC
-* 🎭 General Secretary @ Mudra
-* 🧠 AI/ML + NLP explorer
-* 🎬 Storytelling + experience design
+## ⚡ live_state.yaml
+```yaml
+focus:
+  - AI/ML
+  - NLP systems
+  - system design
 
-```txt
-I don’t like boring systems.
-I redesign them until they feel alive.
+building:
+  - AI exam generator
+  - interactive event systems
+  - clean frontend products
+
+philosophy:
+  - useful first
+  - beautiful next
+  - unforgettable always
 ```
 
 ---
 
-## 🎮 `choice_2 // projects`
-
-```bash
-> loading builds...
-```
-
-### 🧠 AI EXAM ENGINE
-
-* generates papers
-* gives notes
-* acts like a smart mentor
-
-### 🚦 TRAFFIC AI SYSTEM
-
-* real-time adaptive signals
-* predictive flow optimization
-
-### 🎭 INTERACTIVE EVENTS
-
-* story-based games
-* treasure hunts
-* live experiences
+## 🧩 stack.render()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,git,linux,figma,r"/>
+</div>
 
 ---
 
-## 🎮 `choice_3 // secret`
-
-```bash
-decrypting...
+## 🎮 interaction.layer
 ```
+> choose_action:
 
-```txt
-if you made it here:
-
-you’re not normal
-
-we should build something together
+[1] explore_projects
+[2] collaborate
+[3] build_something_insane
 ```
 
 ---
 
-# ⚙️ `SYSTEM_STATUS`
+## 📊 metrics.live
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavamukul&show_icons=true&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavamukul&layout=compact&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+## 🐍 activity.visual
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🌐 connect.protocol
+<div align="center">
+
+<a href="https://github.com/srivastavamukul">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+░▒▓ END OF INTERFACE ▓▒░
+
+---
+
+# 🔥 STEP 2 — MAKE IT “ALIVE” (CRITICAL)
+
+Right now it LOOKS good.  
+Now we make it **intelligent + evolving**
+
+---
+
+## ⚙️ 1. AUTO-UPDATING README (GitHub Actions)
+
+Why this matters:  
+👉 top profiles are dynamic, not static  
+
+---
+
+### Create file:
+`.github/workflows/update.yml`
 
 ```yaml
-mode: building
-focus: creating impact
-style: pixel + graffiti
-energy: chaotic but controlled
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README timestamp
+        run: |
+          echo "Last updated: $(date)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "mukul"
+          git config --global user.email "your@email.com"
+          git add .
+          git commit -m "auto update"
+          git push
 ```
 
 ---
 
-# 🧠 `LIVE_DATA (auto-updating)`
+## 🧠 2. ADD DYNAMIC METRICS (ELITE MOVE)
 
-<!-- ACTIVITY GRAPH -->
+Use:  
+👉 GitHub Readme Stats  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
+It:
 
-<!-- WAKATIME / STATS (OPTIONAL SETUP) -->
-
-<!-- Replace after setup -->
-
-<!--START_SECTION:waka-->
-
-```txt
-loading real-time coding stats...
-```
-
-<!--END_SECTION:waka-->
+- shows real-time stats  
+- updates automatically  
 
 ---
 
-# 🎨 `GRAFFITI_BANNER (CUSTOM SVG IDEA)`
+## 🐍 3. CONTRIBUTION SNAKE (VISUAL HOOK)
 
-```txt
-Replace this with custom graffiti SVG later:
+Create repo:  
+👉 snake  
 
-[M U K U L] sprayed with glitch/pixel distortion
-```
+Add workflow:
 
-(If you want, I’ll generate a real SVG for you next)
+```yaml
+name: generate snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
-# 🕶️ `DUAL_MODE`
-
-```txt
-DAY  → code, systems, logic
-NIGHT → design, chaos, creativity
-
-REALITY → both at once
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: srivastavamukul
 ```
 
 ---
 
-# 📊 `STATS`
+## 🎨 4. CUSTOM GRAFFITI BANNER (INSANE UPGRADE)
 
-<div align="center">
+Right now:  
+❌ generic capsule  
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+Next step:  
+👉 I generate a custom SVG graffiti logo for you  
 
-</div>
+Say:  
+👉 “make banner”  
+
+and I’ll create:
+
+- pixel distortion  
+- spray effect  
+- glitch text  
 
 ---
 
-# 🎬 `PORTFOLIO_SYNC`
+## 🕹️ 5. PLAYABLE README (TOP 1% MOVE)
 
-```bash
-> syncing visual identity...
+We simulate navigation using links:
+
+```
+[Explore Projects](#-projecthighlights)
+[Contact Me](#-connectprotocol)
 ```
 
-Your portfolio and GitHub should feel like the **same universe**.
-
-Use:
-
-* same fonts
-* same colors
-* same vibe (pixel + graffiti)
-
----
-
-# 🤝 `CONNECT`
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🧨 `FINAL_MESSAGE`
-
-```txt
-this is not a profile
-
-this is a signal
-
-if you get it,
-you get it
-```
-
----
+Or go extreme:  
+👉 separate repo = mini CLI game
