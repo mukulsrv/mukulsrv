@@ -35,7 +35,7 @@
 
 ## ❖ IDENTITY_MATRIX
 **`whoami`**
-I am **Mukul Srivastava** — a CSE student at Thapar Institute of Engineering and Technology.
+I am **Mukul Srivastava** a CSE student at Thapar Institute of Engineering and Technology.
 I operate at the intersection of **logic** and **aesthetics**.
 Not just a developer, but a creative technologist who builds systems, architectures, and experiences.
 
