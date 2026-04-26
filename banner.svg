@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .text-base { font-family: 'Courier New', Courier, monospace; font-weight: 900; }
+      
+      /* Name Text Styling */
+      .name-main { font-size: 50px; fill: #ffffff; text-anchor: middle; letter-spacing: 2px; }
+      .name-glitch-1 { font-size: 50px; fill: #ff0055; text-anchor: middle; transform: translate(-3px, -2px); opacity: 0.9; letter-spacing: 2px; }
+      .name-glitch-2 { font-size: 50px; fill: #00ffcc; text-anchor: middle; transform: translate(3px, 2px); opacity: 0.9; letter-spacing: 2px; }
+      
+      /* Graffiti tag / Subtext */
+      .tag { font-family: Impact, sans-serif; font-size: 36px; fill: #fcee0a; text-anchor: middle; font-style: italic; transform: rotate(-5deg); text-shadow: 2px 2px 0px #000, 4px 4px 0px #ff0055; }
+      
+      /* Body text */
+      .console { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #00ff00; }
+      .prompt { fill: #ff0055; font-weight: bold; }
+      
+      .scanline {
+        fill: url(#scanlines);
+        opacity: 0.3;
+      }
+    </style>
+    
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="10" height="4">
+      <rect width="10" height="2" fill="#000" />
+      <rect y="2" width="10" height="2" fill="none" />
+    </pattern>
+    
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2329" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect class="bg" width="800" height="250" rx="8" />
+  <rect width="800" height="250" fill="url(#grid)" rx="8" />
+
+  <!-- Terminal Header UI -->
+  <rect x="0" y="0" width="800" height="25" fill="#161b22" rx="8" />
+  <circle cx="15" cy="12.5" r="5" fill="#ff5f56" />
+  <circle cx="35" cy="12.5" r="5" fill="#ffbd2e" />
+  <circle cx="55" cy="12.5" r="5" fill="#27c93f" />
+  <text x="400" y="17" class="text-base" font-size="12" fill="#8b949e" text-anchor="middle">mukul@system:~/identity</text>
+
+  <!-- Console Text -->
+  <text x="30" y="60" class="console"><tspan class="prompt">&gt;</tspan> _INITIATING_SEQUENCE</text>
+  <text x="30" y="80" class="console"><tspan class="prompt">&gt;</tspan> LOADING_PROFILE: MUKUL_SRIVASTAVA</text>
+
+  <!-- Name text with Glitch -->
+  <text x="400" y="145" class="text-base name-glitch-1">MUKUL SRIVASTAVA</text>
+  <text x="400" y="145" class="text-base name-glitch-2">MUKUL SRIVASTAVA</text>
+  <text x="400" y="145" class="text-base name-main">MUKUL SRIVASTAVA</text>
+
+  <!-- Tag / Graffiti vibe -->
+  <text x="610" y="175" class="tag">CREATOR</text>
+
+  <!-- Stats / Info at bottom -->
+  <rect x="30" y="200" width="740" height="1" fill="#30363d" />
+  <text x="30" y="225" class="console" fill="#8b949e" font-size="12">[ CSE @ TIET ] [ MLSC TECH HEAD ] [ MUDRA GEN SEC ]</text>
+  
+  <text x="770" y="225" class="console" fill="#00ffcc" font-size="12" text-anchor="end">STATUS: EVOLVING</text>
+
+  <!-- Scanlines overlay -->
+  <rect width="800" height="250" class="scanline" rx="8" pointer-events="none" />
+  
+  <!-- Outer border -->
+  <rect width="800" height="250" fill="none" stroke="#30363d" stroke-width="2" rx="8" pointer-events="none" />
+</svg>
