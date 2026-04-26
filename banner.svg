@@ -57,7 +57,7 @@
 
   <!-- Stats / Info at bottom -->
   <rect x="30" y="200" width="740" height="1" fill="#30363d" />
-  <text x="30" y="225" class="console" fill="#8b949e" font-size="12">[ CSE @ TIET ] [ MLSC TECH HEAD ] [ MUDRA GEN SEC ]</text>
+  <text x="30" y="225" class="console" fill="#8b949e" font-size="12">[ CSE @ TIET ]</text>
   
   <text x="770" y="225" class="console" fill="#00ffcc" font-size="12" text-anchor="end">STATUS: EVOLVING</text>
 
