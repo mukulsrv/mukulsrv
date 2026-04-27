@@ -2,6 +2,15 @@
   <img src="./banner.svg" alt="Mukul Srivastava" width="100%" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=600&lines=System+Architect;Creative+Technologist;CSE+Undergrad+%40+TIET;Building+Digital+Experiences" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <!-- Lottie-style Pixel Art Hacker GIF -->
+  <img width="180" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Hacker" align="center"/>
+</div>
+
 <br>
 
 <div align="center">
@@ -35,7 +44,7 @@
 
 ## ❖ IDENTITY_MATRIX
 **`whoami`**
-I am **Mukul Srivastava** a CSE student at Thapar Institute of Engineering and Technology.
+I am **Mukul Srivastava** — a CSE student at Thapar Institute of Engineering and Technology.
 I operate at the intersection of **logic** and **aesthetics**.
 Not just a developer, but a creative technologist who builds systems, architectures, and experiences.
 
@@ -66,7 +75,8 @@ Not just a developer, but a creative technologist who builds systems, architectu
 ---
 
 ## ❖ CURRENT_QUESTS
-> _What I'm building right now..._
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1000&color=FF0055&vCenter=true&width=400&lines=>+_What+I'm+building+right+now..." alt="Typing SVG" />
 
 - 🧠 **[PROJECT_1]** - Developing scalable NLP pipelines.
 - 🎨 **[PROJECT_2]** - Crafting premium, interactive web experiences.
