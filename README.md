@@ -100,9 +100,9 @@ Not just a developer, but a creative technologist who builds systems, architectu
 <div align="center">
   <!-- GitHub Activity Snake - This will auto-update once you enable the GitHub Action included in this package! -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/dist/github-contribution-grid-snake-hacker.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/dist/github-contribution-grid-snake-hacker.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
   </picture>
 </div>
 
