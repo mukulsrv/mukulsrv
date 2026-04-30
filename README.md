@@ -50,11 +50,6 @@ Not just a developer, but a creative technologist who builds systems, architectu
 
 > *"Useful first. Beautiful next. Unforgettable always."*
 
-**`roles_&_affiliations`**
-- ⚡ **Joint Secretary & Tech Head** @ `MLSC`
-- 🎭 **General Secretary** @ `Mudra`
-- 🤝 **Core Member** @ `Rotaract`
-
 ---
 
 ## ❖ SKILL_TREE
