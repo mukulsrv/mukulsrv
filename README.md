@@ -66,24 +66,13 @@ Not just a developer, but a creative technologist who builds systems, architectu
 }
 ```
 
-<h3 align="center">⚡ AI • Full Stack • Systems</h3>
+<h2 align="center">
+⚡ TECH_MATRIX // SYSTEM_MODULES
+</h2>
 
 <div align="center">
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql&theme=dark" />
-<br><br>
-
-<b>AI / Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-<br><br>
-
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
-<br><br>
-
-<b>Databases & Tools</b><br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker,figma&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+Systems+%7C+Full+Stack+Development+%7C+Agentic+Workflows;Building+Products+that+Think+and+Scale" />
 
 </div>
 
@@ -91,11 +80,39 @@ Not just a developer, but a creative technologist who builds systems, architectu
 
 <div align="center">
 
-```text
-AI Stack:
-LLMs • Prompt Engineering • Agentic AI • MCP • n8n • Tool Calling • API Orchestration
+### ⟢ Core Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql&theme=dark&perline=8" />
 
----
+<br><br>
+
+### ⟢ AI + Backend Systems
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=8" />
+
+`LLMs` • `Prompt Engineering` • `MCP` • `Agentic AI` • `n8n` • `Tool Calling`
+
+<br><br>
+
+### ⟢ Frontend Architecture
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=8" />
+
+<br><br>
+
+### ⟢ Databases + Developer Arsenal
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker,figma&theme=dark&perline=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Focus Areas |
+|:---:|
+| 🧠 Agentic AI Systems |
+| ⚙️ Workflow Automation |
+| 🌐 Full Stack Development |
+| 🚀 Intelligent Product Building |
+| 🎨 Premium User Experiences |
 
 ## ❖ CURRENT_QUESTS
 
