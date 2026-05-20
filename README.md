@@ -56,10 +56,13 @@ Not just a developer, but a creative technologist who builds systems, architectu
 
 ```json
 {
-  "domains": ["AI/ML", "NLP", "DBMS", "Systems Architecture"],
-  "creative": ["Design", "Storytelling", "Video Editing", "Event Planning"],
-  "core_languages": ["C++", "Python", "JavaScript", "TypeScript"],
-  "frameworks": ["React", "Next.js", "Node.js", "Express"]
+  "languages": ["C++", "Python", "Java", "JavaScript", "SQL", "R"],
+  "ai_ml": ["LLMs", "Prompt Engineering", "NLP", "Computer Vision", "Agentic AI", "MCP", "RAG Concepts"],
+  "automation": ["n8n", "Tool Calling", "API Orchestration", "AI Workflow Design", "Workflow Automation"],
+  "frontend": ["React", "Vite", "Tailwind CSS", "HTML", "CSS"],
+  "backend": ["Node.js", "Express.js", "FastAPI", "REST APIs", "Authentication Systems"],
+  "databases": ["MongoDB", "PostgreSQL"],
+  "tools": ["Git", "GitHub", "Postman", "Capacitor", "Clerk", "Markdown Rendering"]
 }
 ```
 
@@ -73,12 +76,20 @@ Not just a developer, but a creative technologist who builds systems, architectu
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1000&color=FF0055&vCenter=true&width=400&lines=>+_What+I'm+building+right+now..." alt="Typing SVG" />
 
-- 🧠 **[PROJECT_1]** - Developing scalable NLP pipelines.
-- 🎨 **[PROJECT_2]** - Crafting premium, interactive web experiences.
-- 🎟️ **[PROJECT_3]** - Designing robust systems for large-scale university events.
+- Cognito — AI-Powered Student Productivity Platform
+A full-stack platform built with React, Vite, Tailwind CSS, Node.js, Express.js, and Python to support personalized learning and academic productivity.
+Built an AI tutor using Groq / Llama models for contextual doubt solving and interactive learning.
+Developed CSV-based weak-topic analysis to identify learning gaps and generate insights.
+Integrated Gemini-powered YouTube summarization for faster learning from video content.
+Created an intelligent recommendation flow using the YouTube Data API.
+Added secure authentication with Clerk, markdown rendering, responsive premium UI/UX, and React Context-based state management.
 
-*(Replace these with your actual current projects!)*
-
+- MORA — Intelligent Content Ecosystem
+An AI-driven system for organizing fragmented information into a structured and context-aware knowledge experience.
+Designed workflows for capturing, classifying, and retrieving content intelligently.
+Focused on semantic organization, metadata-driven structuring, and retrieval efficiency.
+Explored prompt engineering, AI automation, API orchestration, and agentic design for scalable task execution.
+Built with the goal of reducing information overload and improving productivity through intelligent discovery.
 ---
 
 ## ❖ DYNAMIC_STATE // LIVE
@@ -111,18 +122,18 @@ Not just a developer, but a creative technologist who builds systems, architectu
 <div align="center">
 
 <!-- Replace the YOUR_... placeholders with your actual links -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mukul-srivastava-080151281">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=000000"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
+<!-- <a href="https://twitter.com/YOUR_TWITTER">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=000000"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
+</a> -->
+<a href="mailto:msrivastavamukul@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000"/>
 </a>
-<a href="https://YOUR_PORTFOLIO.com">
+<!-- <a href="https://YOUR_PORTFOLIO.com">
   <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000"/>
-</a>
+</a> -->
 
 </div>
 
