@@ -66,9 +66,34 @@ Not just a developer, but a creative technologist who builds systems, architectu
 }
 ```
 
+<h3 align="center">⚡ AI • Full Stack • Systems</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,figma,pr,ae&theme=dark" alt="Skill Tree" />
+
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql&theme=dark" />
+<br><br>
+
+<b>AI / Backend</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+<br><br>
+
+<b>Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+<br><br>
+
+<b>Databases & Tools</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker,figma&theme=dark" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+```text
+AI Stack:
+LLMs • Prompt Engineering • Agentic AI • MCP • n8n • Tool Calling • API Orchestration
 
 ---
 
@@ -92,16 +117,6 @@ Explored prompt engineering, AI automation, API orchestration, and agentic desig
 Built with the goal of reducing information overload and improving productivity through intelligent discovery.
 ---
 
-## ❖ DYNAMIC_STATE // LIVE
-
-<div align="center">
-  <!-- GitHub Stats (Replace srivastavamukul with your actual username if different) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavamukul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff&icon_color=ff0055&cache_seconds=1800" width="48%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavamukul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff&cache_seconds=1800" width="48%" />
-</div>
-
-<br>
 
 ---
 
