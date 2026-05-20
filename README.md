@@ -104,13 +104,19 @@ Built with the goal of reducing information overload and improving productivity 
 <br>
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivastavamukul&theme=tokyonight" width="100%" />
+
+</div>
+
+<!-- <div align="center">
   <!-- GitHub Activity Snake - This will auto-update once you enable the GitHub Action included in this package! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
   </picture>
-</div>
+</div> -->
 
 ---
 
