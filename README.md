@@ -96,21 +96,21 @@ Built with the goal of reducing information overload and improving productivity 
 
 <div align="center">
   <!-- GitHub Stats (Replace srivastavamukul with your actual username if different) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavamukul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff&icon_color=ff0055" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavamukul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff&icon_color=ff0055&cache_seconds=1800" width="48%" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavamukul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavamukul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=ffffff&cache_seconds=1800" width="48%" />
 </div>
 
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- GitHub Activity Snake - This will auto-update once you enable the GitHub Action included in this package! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg">
-  </picture>
-</div>
+  <!-- <picture> -->
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg"> -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake.svg"> -->
+    <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srivastavamukul/srivastavamukul/output/github-contribution-grid-snake-hacker.svg"> -->
+  <!-- </picture> -->
+<!-- </div> -->
 
 ---
 
