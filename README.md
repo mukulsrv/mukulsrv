@@ -145,18 +145,18 @@ Built with the goal of reducing information overload and improving productivity 
 <div align="center">
 
 <!-- Replace the YOUR_... placeholders with your actual links -->
-<a href="https://www.linkedin.com/in/mukul-srivastava-080151281">
+<a href="https://www.linkedin.com/in/mukulsrv">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=000000"/>
 </a>
-<!-- <a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://x.com/mukulverse">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=000000"/>
-</a> -->
+</a>
 <a href="mailto:msrivastavamukul@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000"/>
 </a>
-<!-- <a href="https://YOUR_PORTFOLIO.com">
+<a href="https://mukulsrv.dev">
   <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000"/>
-</a> -->
+</a>
 
 </div>
 
